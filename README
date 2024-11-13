@@ -1,0 +1,30 @@
+# Hello-World
+
+This is a simple Hello World project.
+
+## Getting Started
+
+These instructions will help you set up and run the project on your local machine.
+
+### Prerequisites
+
+- [Node.js](https://nodejs.org/) installed on your machine.
+
+### Installation
+
+1. Clone the repository:
+    ```sh
+    git clone https://github.com/your-username/Hello-World.git
+    ```
+2. Navigate to the project directory:
+    ```sh
+    cd Hello-World
+    ```
+3. Install the dependencies:
+    ```sh
+    npm install
+    ```
+
+### Running the Project
+
+To run the project, use the following command:
